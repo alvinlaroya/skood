@@ -1,4 +1,3 @@
-# baguiocab
 
 ## Project setup
 ```
